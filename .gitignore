@@ -1,0 +1,5 @@
+__pycache__
+temp.py
+*.log
+algorithm/*.png
+data/*_processed.csv
